@@ -6,4 +6,5 @@ make my own graphic designs for my own software,
 and even build my own professional installers for them in InstallShield 12!
 
 If you waht to collab with me, you need to know PascalANC.NET very well.
+
 My Email: michaelagarkov@outlook.com
