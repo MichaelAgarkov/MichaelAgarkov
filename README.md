@@ -11,4 +11,4 @@ and tons of programs which i made in the past, like MicChat, where you can host 
 
 If you want to collab with me, you need to know PascalABC.NET very well.
 
-My Email: michaelagarkov@outlook.com
+My email: michaelagarkov@outlook.com
