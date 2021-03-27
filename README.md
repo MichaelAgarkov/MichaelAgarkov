@@ -12,10 +12,16 @@ and tons of programs which i made in the past, like MicChat (made in April 2020)
 If you want to collab with me, you need to know PascalABC.NET very well.
 
 My email: michaelagarkov@outlook.com
+
 My Discord server: https://discord.gg/z9y23h7
+
 Donate: https://www.donationalerts.com/r/MichaelAgarkov
 
+
 Social links:
+
 My Reddit: https://www.reddit.com/u/MichaelAgarkov
+
 My YouTube: https://www.youtube.com/channel/UCxFymvUt5FeMevOUEOfmcLA
+
 My Twitch: https://www.twitch.tv/michaelagarkov
