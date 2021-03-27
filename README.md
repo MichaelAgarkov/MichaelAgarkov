@@ -1,4 +1,4 @@
-Hi, I’m @MichaelAgarkov, or just call me Maikl.
+Hi, I’m Michael Agarkov, or just call me Maikl.
 
 I am an individual, who works on his own personal programs on PascalABC.NET,
 write my own EULA's for my software using templates,
