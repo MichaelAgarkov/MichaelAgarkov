@@ -18,7 +18,6 @@ My Discord server: https://discord.gg/z9y23h7
 Donate: https://www.donationalerts.com/r/MichaelAgarkov
 
 
-
 Social links:
 
 My Reddit: https://www.reddit.com/u/MichaelAgarkov
