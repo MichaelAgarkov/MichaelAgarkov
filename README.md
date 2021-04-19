@@ -1,6 +1,6 @@
 # Hi, I’m **Michael Agarkov**, or just call me Maikl.
 
-I am an individual, who works on his own personal programs on PascalABC.NET,
+I am an individual, who works on his own personal programs on PascalABC.NET and Visual Basic .NET,
 write my own EULA's for my software using templates,
 make my own graphic designs for my own software,
 and even build my own professional installers for them in InstallShield 12!
