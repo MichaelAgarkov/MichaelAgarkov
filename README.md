@@ -9,7 +9,7 @@ I already made lots of programs, like my Firewall! (which isn't publically avail
 an IDE with fullscreen mode, always on top mode, 6 different themes, lots of settings and even printing, called StandalIDE! You can get it here: https://github.com/MichaelAgarkov/StandalIDE,
 and tons of programs which i made in the past, like MicChat, that I recently revived! (First version created in April 2020), you can get the revived version in https://github.com/MichaelAgarkov/MicChatRevived and check it out! I also made lots more programs in the past, too much for me to mention here.
 
-If you want to collab with me, you need to know PascalABC.NET very well.
+If you want to collab with me, you need to know PascalABC.NET or Visual Basic .NET very well.
 
 My email: michaelagarkov@outlook.com
 
