@@ -7,6 +7,7 @@ and even build my own professional installers for them in InstallShield 12!
 
 I already made lots of programs, like my Firewall! (which isn't publically available),
 an IDE with fullscreen mode, always on top mode, 6 different themes, lots of settings and even printing, called StandalIDE! You can get it here: https://github.com/MichaelAgarkov/StandalIDE,
+even my own installation builder, called MicSetup! You can get it here: https://github.com/MichaelAgarkov/MicSetup
 and tons of programs which i made in the past, like MicChat, that I recently revived! (First version created in April 2020), you can get the revived version in https://github.com/MichaelAgarkov/MicChatRevived and check it out! I also made lots more programs in the past, too much for me to mention here.
 
 If you want to collab with me, you need to know PascalABC.NET or Visual Basic .NET very well.
