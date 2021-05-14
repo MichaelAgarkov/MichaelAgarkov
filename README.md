@@ -16,15 +16,17 @@ If you want to collab with me, you need to know PascalABC.NET or Visual Basic .N
 
 - My email: michaelagarkov@outlook.com
 
-- My Discord server: https://discord.gg/z9y23h7
+- [My Discord server](https://discord.gg/z9y23h7)
 
-- Donate: https://www.donationalerts.com/r/MichaelAgarkov
+- [Donate](https://www.donationalerts.com/r/MichaelAgarkov)
 
 
 Social links:
 
-- My Reddit: https://www.reddit.com/u/MichaelAgarkov
+- [My Reddit](https://www.reddit.com/u/MichaelAgarkov)
 
-- My YouTube: https://www.youtube.com/channel/UCxFymvUt5FeMevOUEOfmcLA
+- [My YouTube](https://www.youtube.com/channel/UCxFymvUt5FeMevOUEOfmcLA)
 
-- My Twitch: https://www.twitch.tv/michaelagarkov
+- [My Soundcloud](https://soundcloud.com/michaelagarkov)
+
+- [My Twitch](https://www.twitch.tv/michaelagarkov)
