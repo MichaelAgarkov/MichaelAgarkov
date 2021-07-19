@@ -1,6 +1,6 @@
 # Hi, I’m **Michael Agarkov**, or just call me Maikl.
 
-I make programs in PascalABC.NET and Visual Basic .NET, graphic designs for them, usually make installers in InstallShield 12, also I am an EULA expert!
+I make programs in PascalABC.NET and Visual Basic .NET, graphic designs for them, usually make installers in InstallShield 12, also I am a EULA expert!
 
 [The version of PascalABC.NET I use](https://tinyurl.com/PascalABCNET) (PascalABC.NET version 3.4.2 build 2050)
 - My email: michaelagarkov@outlook.com
